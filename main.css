@@ -1,0 +1,20 @@
+
+.container {
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 30px #888888;
+    border-width: 5px 5px;
+    margin:auto;
+}
+.container p {
+    text-align: center;
+    padding-top: 245px;
+    color:gray;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.input {
+    text-align: center;
+    margin: 30px;
+}
